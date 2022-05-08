@@ -1,4 +1,4 @@
-<img src="https://cdn.imweb.me/thumbnail/20200415/6b6e035658bac.png" height="100"/>
+<img src="https://cdn.imweb.me/thumbnail/20200415/6b6e035658bac.png" height="200"/>
 
 # kimchi-recipe
 - 김치요리 저장소
